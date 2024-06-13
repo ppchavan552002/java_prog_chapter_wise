@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;EncapsulationDemoExp.StarticBlock&apos; to &apos;StaticBlock&apos;&#x0D;&#x0A;- Original project: &apos;EncapsulationDemo&apos;&#x0D;&#x0A;- Original element: &apos;EncapsulationDemoExp.StarticBlock&apos;&#x0D;&#x0A;- Renamed element: &apos;EncapsulationDemoExp.StaticBlock&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;StarticBlock&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;EncapsulationDemoExp{StarticBlock.java[StarticBlock" matchStrategy="1" name="StaticBlock" qualified="false" references="true" similarDeclarations="false" stamp="1716630097258" textual="false" version="1.0"/>
+</session>

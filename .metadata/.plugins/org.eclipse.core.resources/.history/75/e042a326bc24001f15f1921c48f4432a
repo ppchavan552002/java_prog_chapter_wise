@@ -1,0 +1,21 @@
+package StackCollectionDemo;
+
+import java.util.*;
+
+public class StackProg {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Stack<Integer> s=new Stack<>();
+		s.push(20);
+		s.push(30);
+		s.push(50);
+		
+		System.out.println("top of Stacj : "+s.peek());
+		
+		System.out.println("Element Remove : "+s.pop());
+		
+		System.out.println(s);
+	}
+
+}

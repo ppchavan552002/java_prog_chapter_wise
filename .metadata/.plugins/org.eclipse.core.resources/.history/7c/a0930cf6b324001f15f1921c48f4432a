@@ -1,0 +1,22 @@
+package QueueCollectionDemo;
+
+import java.util.*;
+
+public class QueueProg {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Queue numQ=new PriorityQueue<>();
+		numQ.add(45);
+		numQ.add(30);
+		numQ.add(34);
+		
+		System.out.println("Head of Queue : "+numQ.peek());
+		
+		System.out.println("Element of Queue : "+numQ.poll());
+		
+		System.out.println(numQ);
+		
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;constructorDemoExample.methodOverRiding&apos; to &apos;methodOverLoad&apos;&#x0D;&#x0A;- Original project: &apos;constructorDemo&apos;&#x0D;&#x0A;- Original element: &apos;constructorDemoExample.methodOverRiding&apos;&#x0D;&#x0A;- Renamed element: &apos;constructorDemoExample.methodOverLoad&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;methodOverRiding&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;constructorDemoExample{methodOverRiding.java[methodOverRiding" matchStrategy="1" name="methodOverLoad" qualified="false" references="true" similarDeclarations="false" stamp="1716462218576" textual="false" version="1.0"/>
+</session>

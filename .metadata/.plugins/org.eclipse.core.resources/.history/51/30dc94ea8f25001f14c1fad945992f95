@@ -1,0 +1,14 @@
+package PropertiesCollectionDemo;
+
+import java.io.FileReader;
+import java.util.Properties;
+
+public class Test {
+
+	public static void main(String[] args) throws Exception {
+		// TODO Auto-generated method stub
+		FileReader reader = new FileReader("db.properties");
+		
+	}
+
+}

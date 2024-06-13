@@ -1,0 +1,10 @@
+package ComparableCollectionDemo;
+
+public class Student implements Comparable<Student> {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,30 @@
+c is procedure-oriented, garbage collection in c is manually
+java is object-oriented,
+
+Anything Java depends on objects, data abstraction,
+polymorphism
+
+It's saving and faster in execution
+
+class loader is part of the java runtime environment responsible for java class into the java virtual machine
+
+it helps developers to create compile packages and run Java applications it proved essential for Java developer
+
+responsible for running Java applications executing Java application
+
+in JVM-interpreted Java this process allows Java applications to be platform-independent
+
+concrete implementation refers to the specific fully defined implementation of the interface 
+
+runtime instance refers to an object that is created and exists in memory
+
+it's the physical component of a computer system that directly executes tasks without the abstract layer
+
+when a program language supports dynamic typing it means that type checking performs at run time
+
+public accessible from any other class
+private accessible within the class which is declared
+protected accessible within the same class and sub-class and in package
+
+constract name same as the class name. contructor don't have return type.
+

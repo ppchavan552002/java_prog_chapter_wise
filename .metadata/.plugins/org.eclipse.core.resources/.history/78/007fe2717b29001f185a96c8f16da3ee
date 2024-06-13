@@ -1,0 +1,14 @@
+package ThreadPriorityDemo;
+
+public class YeildMethod extends Thread {
+	
+	public String threadName;
+	
+	public Yeild()
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

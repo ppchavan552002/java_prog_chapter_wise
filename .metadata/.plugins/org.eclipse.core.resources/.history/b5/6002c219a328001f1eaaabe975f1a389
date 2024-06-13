@@ -1,0 +1,29 @@
+package StreamDemoPack;
+
+import java.time.LocalDate;
+import java.time.temporal.TemporalAdjuster;
+import java.time.temporal.TemporalAdjusters;
+
+
+
+public class StreamTemporalAdjester {
+	
+	 static void main(String[] args) {
+		// TODO Auto-generated method stub
+//		LocalDate nextPayDay = LocalDate.now().with(TemporalAdjusters.lastDayOfMonth());
+//		System.out.println(nextPayDay);
+		 
+		TemporalAdjuster  Next_workDay =w -> {
+			LocalDate result= {LocalDate};
+			do {
+				result=result.plusDay(1);
+			}while(result.getDayOfWeek().getValue()>=6;
+			return result;
+		};
+		LocalDate backToWork=today.with(Next_workDay);
+
+		public
+		
+	}
+
+}

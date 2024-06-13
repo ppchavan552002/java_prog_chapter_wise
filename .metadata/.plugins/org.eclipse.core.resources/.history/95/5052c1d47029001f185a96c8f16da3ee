@@ -1,0 +1,27 @@
+package ThreadPriorityDemo;
+
+public class ThreadPriorityExp extends Thread {
+	
+	public void run() {
+		System.out.println("Inside the run method");
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		ThreadPriorityExp t1=new ThreadPriorityExp();
+		ThreadPriorityExp t2=new ThreadPriorityExp();
+		ThreadPriorityExp t3=new ThreadPriorityExp();
+		
+		t1.setPriority(6);
+		t2.setPriority(2);
+		t3.setPriority(5);
+		
+		System.out.println(t1.getPriority());
+		System.out.println(t2.getPriority());
+		System.out.println(t3.getPriority());
+		
+		
+
+	}
+
+}
