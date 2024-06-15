@@ -29,4 +29,5 @@
     <fullyQualifiedTypeName name="java.time.temporal.TemporalAdjuster"/>
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="ThreadDemoExp.BusinessLogicThread"/>
+    <fullyQualifiedTypeName name="ThreadDemoExp.WaitMethods"/>
 </qualifiedTypeNameHistroy>
